@@ -2,6 +2,6 @@ package Sample;
 
 public class SampleFeature {
     void sampleFunction(){
-        System.out.println("sample function");
+        System.out.println("updated sample function");
     }
 }
